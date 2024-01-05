@@ -3,7 +3,7 @@
 I18n logic extracted from Refinery CMS, for Refinery CMS.
 
 ```ruby
-gem 'refinerycms-i18n', '~> 4.0.1'
+gem 'refinerycms-i18n', '~> 5.0.1'
 bundle install
 rails g refinery:i18n
 ```
